@@ -1,0 +1,25 @@
+/* #course-title {
+  color: purple;
+} */
+.title {
+  color: orange;
+}
+.title {
+  color: green;
+}
+h1 {
+  color: navy;
+}
+.course-card p {
+  color: #374151;
+}
+.p1 {
+  color: teal;
+}
+.topic :hover {
+  color: chocolate;
+}
+.topic :focus-visible {
+  outline: coral;
+  background-color: coral;
+}
