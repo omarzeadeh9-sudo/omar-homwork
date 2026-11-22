@@ -1,0 +1,18 @@
+:root {
+  --brand: blue;
+}
+h1 {
+  color: var(--brand);
+}
+h2 {
+  color: var(--brand);
+}
+.course-card {
+  background-color: brown;
+}
+.course-card[data-status="open"] {
+  background-color: lightgreen;
+}
+.course-card[data-status="full"] {
+  background-color: gray;
+}
